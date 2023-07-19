@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D11D3EDF2A68081D00E7C19E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D11D3EDE2A68081D00E7C19E /* .gitignore */; };
 		D1B59DA32A5E76F20026B259 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B59DA22A5E76F20026B259 /* AppDelegate.swift */; };
 		D1B59DA52A5E76F20026B259 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B59DA42A5E76F20026B259 /* SceneDelegate.swift */; };
 		D1B59DA72A5E76F20026B259 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B59DA62A5E76F20026B259 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D11D3EDE2A68081D00E7C19E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		D1B59D9F2A5E76F20026B259 /* EmojiReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmojiReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1B59DA22A5E76F20026B259 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1B59DA42A5E76F20026B259 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				D1B59DAB2A5E76F30026B259 /* Assets.xcassets */,
 				D1B59DC02A615DEE0026B259 /* settings.png */,
 				D1B59DAD2A5E76F30026B259 /* LaunchScreen.storyboard */,
+				D11D3EDE2A68081D00E7C19E /* .gitignore */,
 				D1B59DB02A5E76F30026B259 /* Info.plist */,
 			);
 			path = EmojiReader;
@@ -140,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D11D3EDF2A68081D00E7C19E /* .gitignore in Resources */,
 				D1B59DC12A615DEE0026B259 /* settings.png in Resources */,
 				D1B59DAF2A5E76F30026B259 /* LaunchScreen.storyboard in Resources */,
 				D1B59DAC2A5E76F30026B259 /* Assets.xcassets in Resources */,
