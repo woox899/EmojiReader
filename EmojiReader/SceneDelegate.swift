@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  EmojiReader
-//
-//  Created by Андрей Бабкин on 12.07.2023.
-//
 
 import UIKit
 
